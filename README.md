@@ -8,7 +8,7 @@
   📍 location:iran,tehran
 </samp>
 <br>
-my skills
+my skills:
 <samp>
   HTML,
   CSS,
