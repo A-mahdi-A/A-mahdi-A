@@ -6,8 +6,9 @@
   <br>
   📧 E-mail :amirmahdiasghari2022@gmail.com<br>
   📍 location:iran,tehran
-</samp><br>
-#my skills
+</samp>
+<br>
+# my skills
 <samp>
   HTML,
   CSS,
