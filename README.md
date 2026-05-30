@@ -14,15 +14,26 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 Who Am I?
 
-```diff
-+ 5+ Years of Frontend Development Experience
-+ React.js Specialist
-+ UI/UX Focused Developer
-+ Building Fast & Scalable Web Applications
-+ Passionate About Modern Web Technologies
-```
+I'm Amir Mahdi Asghari, a Frontend Developer from Iran 🇮🇷
+
+For the past 5+ years, I've been turning ideas into interactive web experiences using React and modern frontend technologies.
+
+I enjoy building fast, responsive, and user-friendly applications that not only work great but also look great.
+
+⚡ React Enthusiast
+
+🎨 UI/UX Lover
+
+📱 Responsive Design Advocate
+
+🚀 Continuous Learner
+
+💡 Problem Solver
+
+When I'm not coding, you'll usually find me exploring new technologies, refining my skills, and working on projects that challenge me to grow as a developer.
+
 
 I'm **Amir Mahdi Asghari**, a frontend developer from **Iran 🇮🇷** who enjoys transforming ideas into modern digital experiences.
 
