@@ -1,25 +1,73 @@
+<div align="center">
+
+<img src="YOUR_BANNER_URL" width="100%"/>
+
+# ⚡ Amir Mahdi Asghari
+
+### Founder of FATA • Frontend Developer • React Specialist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&color=00D9FF&lines=Founder+of+FATA;Frontend+Developer;React.js+Specialist;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Products" />
+
+<br>
+
+<a href="https://farazata.ir">
+  <img src="https://img.shields.io/badge/FATA-Official%20Website-00D9FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/a-mahdi-a">
+  <img src="https://img.shields.io/github/followers/a-mahdi-a?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
 ## 🚀 About Me
 
-I'm **Amir Mahdi Asghari**, a passionate Frontend Developer from **Iran 🇮🇷** with more than **5 years of experience** building modern, responsive, and user-focused web applications.
+I'm the founder of **FATA (Faraz Atieh Techno Amiran)** and a Frontend Developer with 5+ years of experience building modern digital products.
 
-My journey in web development has been driven by one goal: creating digital experiences that are not only functional but also visually engaging and enjoyable to use. I specialize in **React.js** and modern frontend technologies, turning ideas into fast, scalable, and maintainable products.
+I specialize in React.js and focus on creating fast, scalable, and visually appealing web applications. My goal is to transform ideas into products that deliver real value and exceptional user experiences.
 
-From landing pages and business websites to admin dashboards and custom web applications, I enjoy solving real-world problems through clean code and thoughtful design.
+---
 
-### What I Do
+## ⚙️ Tech Arsenal
 
-⚛️ Build modern applications with React.js
+React • JavaScript • TypeScript • SCSS • Tailwind CSS • Node.js • Git • Figma
 
-🎨 Create intuitive and engaging user interfaces
+---
 
-📱 Develop fully responsive web experiences
+## 🌐 What I Build
 
-🚀 Optimize performance and user experience
+🚀 Landing Pages
 
-🧠 Continuously learn and explore new technologies
+💼 Business Websites
 
-### Tech Stack
+📊 Admin Dashboards
 
-React.js • JavaScript • TypeScript • SCSS • Tailwind CSS • HTML5 • CSS3 • Git • GitHub • Figma
+🍔 Digital Menu Systems
 
-> **"Great products are built where clean code meets exceptional user experience."**
+⚛️ React Applications
+
+🎨 Modern User Interfaces
+
+---
+
+## 📈 GitHub Analytics
+
+[Stats Cards Here]
+
+---
+
+## 🌍 FATA
+
+Building digital solutions for businesses and startups.
+
+🔗 https://farazata.ir
+
+---
+
+<div align="center">
+
+### ⚡ FATA — Where Ideas Become Digital Products
+
+</div>
