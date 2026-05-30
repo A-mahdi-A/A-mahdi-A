@@ -16,16 +16,9 @@
 
 ## 👨‍💻 About Me
 
-```text
-Name        : Amir Mahdi Asghari
-Experience  : 5+ Years
-Role        : Frontend Developer
-Location    : Iran 🇮🇷
-Main Stack  : React • JavaScript • SCSS
-Mission     : Turning ideas into digital products
-```
+I'm Amir Mahdi Asghari, a Frontend Developer from Iran with over 5 years of experience creating modern web applications.
 
----
+My primary focus is React.js development, crafting responsive user interfaces, and delivering seamless user experiences. I enjoy transforming ideas into scalable, high-performance digital products while continuously learning and improving my skills.
 
 ## ⚙️ Tech Arsenal
 
