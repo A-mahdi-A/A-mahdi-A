@@ -1,67 +1,25 @@
-<div align="center">
+## 🚀 About Me
 
-# ⚡ Amir Mahdi Asghari
+I'm **Amir Mahdi Asghari**, a passionate Frontend Developer from **Iran 🇮🇷** with more than **5 years of experience** building modern, responsive, and user-focused web applications.
 
-### Frontend Developer • React Specialist • UI Enthusiast
+My journey in web development has been driven by one goal: creating digital experiences that are not only functional but also visually engaging and enjoyable to use. I specialize in **React.js** and modern frontend technologies, turning ideas into fast, scalable, and maintainable products.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;UI%2FUX+Enthusiast;Building+Modern+Web+Experiences" />
+From landing pages and business websites to admin dashboards and custom web applications, I enjoy solving real-world problems through clean code and thoughtful design.
 
-<br>
+### What I Do
 
-<img src="https://github-profile-trophy.vercel.app/?username=a-mahdi-a&theme=tokyonight&no-frame=true&row=1&column=7" />
+⚛️ Build modern applications with React.js
 
-</div>
+🎨 Create intuitive and engaging user interfaces
 
----
+📱 Develop fully responsive web experiences
 
-## 👨‍💻 About Me
+🚀 Optimize performance and user experience
 
-I'm Amir Mahdi Asghari, a Frontend Developer from Iran with over 5 years of experience creating modern web applications.
+🧠 Continuously learn and explore new technologies
 
-My primary focus is React.js development, crafting responsive user interfaces, and delivering seamless user experiences. I enjoy transforming ideas into scalable, high-performance digital products while continuously learning and improving my skills.
+### Tech Stack
 
-## ⚙️ Tech Arsenal
+React.js • JavaScript • TypeScript • SCSS • Tailwind CSS • HTML5 • CSS3 • Git • GitHub • Figma
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,nodejs,git,github,figma,vscode&perline=6"/>
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=a-mahdi-a&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mahdi-a&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=a-mahdi-a&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 FATA Website
-
-🔹 Landing Pages
-
-🔹 Digital Menu Systems
-
-🔹 Admin Dashboards
-
----
-
-## 🌐 Portfolio
-
-https://farazata.ir
-
----
-
-<div align="center">
-
-### 🖤 "Code. Create. Improve. Repeat."
-
-</div>
+> **"Great products are built where clean code meets exceptional user experience."**
