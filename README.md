@@ -1,73 +1,99 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%"/>
-
 # ⚡ Amir Mahdi Asghari
 
-### Founder of FATA • Frontend Developer • React Specialist
+### Frontend Developer • React Specialist • UI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&color=00D9FF&lines=Founder+of+FATA;Frontend+Developer;React.js+Specialist;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Specialist;Building+Modern+Web+Experiences;Creating+Beautiful+User+Interfaces;Turning+Ideas+Into+Products" />
 
 <br>
 
-<a href="https://farazata.ir">
-  <img src="https://img.shields.io/badge/FATA-Official%20Website-00D9FF?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/a-mahdi-a">
-  <img src="https://img.shields.io/github/followers/a-mahdi-a?style=for-the-badge" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=a-mahdi-a&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm the founder of **FATA (Faraz Atieh Techno Amiran)** and a Frontend Developer with 5+ years of experience building modern digital products.
+```diff
++ 5+ Years of Frontend Development Experience
++ React.js Specialist
++ UI/UX Focused Developer
++ Building Fast & Scalable Web Applications
++ Passionate About Modern Web Technologies
+```
 
-I specialize in React.js and focus on creating fast, scalable, and visually appealing web applications. My goal is to transform ideas into products that deliver real value and exceptional user experiences.
+I'm **Amir Mahdi Asghari**, a frontend developer from **Iran 🇮🇷** who enjoys transforming ideas into modern digital experiences.
 
----
+For over five years, I've been building responsive websites, landing pages, dashboards, and web applications with a strong focus on performance, usability, and clean design.
 
-## ⚙️ Tech Arsenal
-
-React • JavaScript • TypeScript • SCSS • Tailwind CSS • Node.js • Git • Figma
-
----
-
-## 🌐 What I Build
-
-🚀 Landing Pages
-
-💼 Business Websites
-
-📊 Admin Dashboards
-
-🍔 Digital Menu Systems
-
-⚛️ React Applications
-
-🎨 Modern User Interfaces
+My passion lies in creating products that not only work flawlessly but also provide users with an enjoyable and memorable experience.
 
 ---
 
-## 📈 GitHub Analytics
+# ⚙️ Tech Stack
 
-[Stats Cards Here]
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,nodejs,git,github,figma,vscode&perline=6"/>
+</p>
 
 ---
 
-## 🌍 FATA
+# 📊 GitHub Analytics
 
-Building digital solutions for businesses and startups.
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=a-mahdi-a&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🔗 https://farazata.ir
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mahdi-a&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=a-mahdi-a&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+🔥 Master Advanced React Patterns
+
+🚀 Build High-Performance Applications
+
+🎨 Create Exceptional User Experiences
+
+⚡ Contribute To Open Source Projects
+
+🌍 Work On Impactful Digital Products
+
+---
+
+# 🏆 Featured Work
+
+### 🌐 FATA
+
+Modern web solutions, landing pages, admin dashboards, and digital products.
+
+### 📱 Responsive Interfaces
+
+Designing seamless experiences across all devices.
+
+### ⚛️ React Applications
+
+Scalable and maintainable frontend architectures.
+
+---
+
+# 🌍 Portfolio
+
+**Website:** https://farazata.ir
 
 ---
 
 <div align="center">
 
-### ⚡ FATA — Where Ideas Become Digital Products
+## 🖤 Code • Create • Improve • Repeat
+
+*"Great products are built where clean code meets exceptional user experience."*
 
 </div>
