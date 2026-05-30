@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=a-mahdi-a&theme=tokyonight&no-frame=true&row=1&column=7" />
+
 
 </div>
 
